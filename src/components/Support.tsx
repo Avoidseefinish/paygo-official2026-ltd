@@ -4,11 +4,11 @@ import { ArrowLeft, MessageCircle } from 'lucide-react';
 
 const Support = ({ onBack }: { onBack: () => void }) => {
   const handleWhatsAppChat = () => {
-    window.open('t.me/bluepaysupport01', '_blank');
+    window.open('https://t.me/officialsupport50', '_blank');
   };
 
   const handleLiveChat = () => {
-    window.open('t.me/bluepaysupport01', '_blank');
+    window.open('https://t.me/officialsupport50', '_blank');
   };
 
   return (
